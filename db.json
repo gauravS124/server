@@ -4,7 +4,8 @@
   
         {
             "id":1,
-            "description":"description 1"
+            "description":"description 1",
+            "email":"email"
         }
         ,{
             "id":2,
@@ -22,19 +23,31 @@
     "feed":[
         {
             "id":1,
-            "feedback":"feedback 1"
+            "feedback":"feedback 1",
+            "author":"name",
+            "email":"email",
+            "ratings":"1"
         },
         {
             "id":2,
-            "feedback":"feedback 2"
+            "feedback":"feedback 2",
+            "author":"name",
+            "email":"email",
+            "ratings":"1"
         },
         {
             "id":3,
-            "feedback":"feedback 3"
+            "feedback":"feedback 3",
+            "author":"name",
+            "email":"email",
+            "ratings":"1"
         },
         {
             "id":4,
-            "feedback":"feedback 4"
+            "feedback":"feedback 4",
+            "author":"name",
+            "email":"email",
+            "ratings":"1"
         }
   
     ]
