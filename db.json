@@ -1,55 +1,128 @@
-
 {
-    "bugs":[
-  
-        {
-            "id":1,
-            "description":"description 1",
-            "email":"email"
-        }
-        ,{
-            "id":2,
-            "description":"description 2"
-        },
-        {
-            "id":3,
-            "description":"description 3"
-        },
-        {
-            "id":4,
-            "description":"description 4"
-        }
+    "bugs": [
+      {
+        "id": 1,
+        "title": "title 1",
+        "description": "description 1",
+        "author": "author 1",
+        "email": "email 1"
+      },
+      {
+        "id": 2,
+        "title": "title 2",
+        "description": "description 2",
+        "author": "author 2",
+        "email": "email 2"
+      },
+      {
+        "id": 3,
+        "title": "title 3",
+        "description": "description 3",
+        "author": "author 3",
+        "email": "email 3"
+      },
+      {
+        "title": "FE",
+        "description": "aaa",
+        "author": "aaaaa",
+        "email": "aaaaa",
+        "id": 4
+      },
+      {
+        "title": "",
+        "description": "",
+        "author": "",
+        "email": "",
+        "id": 5
+      },
+      {
+        "title": "FE bug",
+        "description": "title spelling incorrect",
+        "author": "gaurav",
+        "email": "gauravdesu@gmail.com",
+        "id": 6
+      },
+      {
+        "title": "FE bug",
+        "description": "title spelling incorrect",
+        "author": "aman",
+        "email": "aman@gmail.com",
+        "id": 7
+      },
+      {
+        "title": "BE bug",
+        "description": "title spelling incorrect",
+        "author": "tarun",
+        "email": "tarun@gmail.com",
+        "id": 8
+      }
     ],
-    "feed":[
-        {
-            "id":1,
-            "feedback":"feedback 1",
-            "author":"name",
-            "email":"email",
-            "ratings":"1"
-        },
-        {
-            "id":2,
-            "feedback":"feedback 2",
-            "author":"name",
-            "email":"email",
-            "ratings":"1"
-        },
-        {
-            "id":3,
-            "feedback":"feedback 3",
-            "author":"name",
-            "email":"email",
-            "ratings":"1"
-        },
-        {
-            "id":4,
-            "feedback":"feedback 4",
-            "author":"name",
-            "email":"email",
-            "ratings":"1"
-        }
-  
-    ]
+    "feedback": [
+      {
+        "id": 1,
+        "description": "description 1",
+        "author": "author 1",
+        "rating": 1
+      },
+      {
+        "id": 2,
+        "description": "description 2",
+        "author": "author 2",
+        "rating": 2
+      },
+      {
+        "id": 3,
+        "description": "description 3",
+        "author": "author 3",
+        "rating": 3
+      },
+      {
+        "author": "gauav",
+        "description": "heheh",
+        "rating": "3",
+        "id": 4
+      },
+      {
+        "description": "description  of feedback",
+        "author": "aman",
+        "rating": 5,
+        "id": 5
+      }
+    ],
+    "notification": [
+      {
+        "id": 1,
+        "title": "title 1",
+        "description": "description 1"
+      },
+      {
+        "id": 2,
+        "title": "title 1",
+        "description": "description 1"
+      },
+      {
+        "id": 3,
+        "title": "title 1",
+        "description": "description 1"
+      },
+      {
+        "title": "qqq",
+        "description": "qqwqwqwqw",
+        "id": 4
+      },
+      {
+        "title": "notify ",
+        "description": "new notify",
+        "id": 5
+      }
+    ],
+    "performance": {
+      "rating": "4.5",
+      "timeSpent": "2hr",
+      "bugResolved": "25"
+    },
+    "customerSupport": {
+      "contact": "9999999999",
+      "email": "contact_support@konnex.com"
+    }
   }
-  
